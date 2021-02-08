@@ -1,6 +1,6 @@
 # Go Tasks
 
-Various tasks for learning go
+Programming tasks 1 and 2 for learning Go
 
 # How to do stuff?
 
@@ -13,7 +13,8 @@ The packages are pretty random since part of the tasks was just to make some, an
 
 ```
 go-tasks/
-	basics/ 	- The basic tasks
-	cmd/ 		- Various cli apps for testing
-	fibandfact/ - Made up package for the sake of it
+	basics/ 	  - The basic tasks
+	cmd/ 		  - Various cli apps for testing
+	fibandfact/   - Made up package for the sake of it
+	intermediate/ - The intermediate tasks
 ```
